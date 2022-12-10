@@ -4,11 +4,11 @@ I'm Joseph Gan, a software engineer from Singapore <img src="https://freesvg.org
 
 ### 📰 Recent Blog Posts
 
+- [How to manually install WSL2 on a Windows 10 Virtual Machine](https://bwgjoseph.com/how-to-manually-install-wsl2-on-a-windows-10-virtual-machine)
 - [Installing oh-my-posh using winget](https://bwgjoseph.com/installing-oh-my-posh-using-winget)
 - [[Docusaurus] How to enable showLastUpdate feature when deployed via Gitlab CI](https://bwgjoseph.com/docusaurus-how-to-enable-showlastupdate-feature-when-deployed-via-gitlab-ci)
 - [Default mapping behavior for Spring Data MongoDB](https://bwgjoseph.com/default-mapping-behavior-for-spring-data-mongodb)
 - [Learn how to connect and run script on mongosh](https://bwgjoseph.com/learn-how-to-connect-and-run-script-on-mongosh)
-- [Understanding export and import in CommonJS](https://bwgjoseph.com/understanding-export-and-import-in-commonjs)
 
 ### 📫 How to reach me:
 
