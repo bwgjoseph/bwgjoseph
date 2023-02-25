@@ -4,11 +4,11 @@ I'm Joseph Gan, a software engineer from Singapore <img src="https://freesvg.org
 
 ### 📰 Recent Blog Posts
 
+- [Prefer Docker save and load](https://bwgjoseph.com/prefer-docker-save-and-load)
 - [A better way to install Windows App Bundle file in offline machine](https://bwgjoseph.com/a-better-way-to-install-windows-app-bundle-file-in-offline-machine)
 - [Can you use Lombok toBuilder on an Abstract Class?](https://bwgjoseph.com/can-you-use-lombok-tobuilder-on-an-abstract-class)
 - [Polymorphic DTO using Java Record with Jackson](https://bwgjoseph.com/polymorphic-dto-using-java-record-with-jackson)
 - [How to manually install WSL2 on a Windows 10 Virtual Machine](https://bwgjoseph.com/how-to-manually-install-wsl2-on-a-windows-10-virtual-machine)
-- [Installing oh-my-posh using winget](https://bwgjoseph.com/installing-oh-my-posh-using-winget)
 
 ### 📫 How to reach me:
 
