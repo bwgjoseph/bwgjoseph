@@ -16,6 +16,20 @@ I'm Joseph Gan, a software engineer from Singapore <img src="https://freesvg.org
 - Website   : <https://bwgjoseph.com>
 - Email     : <josephgan@live.com.sg>
 
+### 👯 Open Source
+
+#### [feathers-ottoman](https://github.com/bwgjoseph/feathers-ottoman)
+
+A [Feathers](https://feathersjs.com) database adapter for [Ottoman](https://ottomanjs.com/), an object modeling tool for [Couchbase](https://www.couchbase.com/)
+
+#### [downloader](https://github.com/bwgjoseph/downloader)
+
+Scripts to automate downloading of application installers, plugins and more, for air-gapped environment. See my [blogpost](https://bwgjoseph.com/how-i-automate-downloading-of-application-installers-using-powershell)
+
+#### [partial-local-date](https://github.com/bwgjoseph/partial-local-date)
+
+To support partially defined date, especially for Day (0000-00-10) or Dateless (0000-00-00) type
+
 ### ⚡ Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bwgjoseph)](https://github.com/anuraghazra/github-readme-stats)
