@@ -30,6 +30,10 @@ Scripts to automate downloading of application installers, plugins and more, for
 
 To support partially defined date, especially for Day (0000-00-10) or Dateless (0000-00-00) type
 
+### 🖲 Awesome Resource
+
+[Curated list of resources I came across that deserved better than to be buried among the thousands of bookmark](https://github.com/bwgjoseph/awesome-resource)
+
 ### ⚡ Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bwgjoseph)](https://github.com/anuraghazra/github-readme-stats)
