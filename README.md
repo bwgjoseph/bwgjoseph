@@ -4,11 +4,11 @@ I'm Joseph Gan, a software engineer from Singapore <img src="https://freesvg.org
 
 ### 📰 Recent Blog Posts
 
+- [Maven 101 - Basics](https://bwgjoseph.com/maven-101-basics)
 - [Spring Security: Configure debug mode programmatically](https://bwgjoseph.com/spring-security-configure-debug-mode-programmatically)
 - [Spring Security: Custom Pre-Authentication Flow](https://bwgjoseph.com/spring-security-custom-pre-authentication-flow)
 - [Why RequestHeaderAuthenticationFilter is not registered as part of Spring Security Filter Chain](https://bwgjoseph.com/why-requestheaderauthenticationfilter-is-not-registered-as-part-of-spring-security-filter-chain)
 - [Spring Boot Debezium (embedded) Engine with MongoDB as Source - Part 1](https://bwgjoseph.com/spring-boot-debezium-embedded-engine-with-mongodb-as-source-part-1)
-- [Prefer Docker save and load](https://bwgjoseph.com/prefer-docker-save-and-load)
 
 ### 📫 How to reach me:
 
