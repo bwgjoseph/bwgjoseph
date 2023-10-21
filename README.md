@@ -4,11 +4,11 @@ I'm Joseph Gan, a software engineer from Singapore <img src="https://freesvg.org
 
 ### 📰 Recent Blog Posts
 
+- [Reclaim disk space used by Docker Desktop (WSL2)](https://bwgjoseph.com/reclaim-disk-space-used-by-docker-desktop-wsl2)
 - [Maven 101 - Multi-Module](https://bwgjoseph.com/maven-101-multi-module)
 - [Maven 101 - Basics](https://bwgjoseph.com/maven-101-basics)
 - [Spring Security: Configure debug mode programmatically](https://bwgjoseph.com/spring-security-configure-debug-mode-programmatically)
 - [Spring Security: Custom Pre-Authentication Flow](https://bwgjoseph.com/spring-security-custom-pre-authentication-flow)
-- [Why RequestHeaderAuthenticationFilter is not registered as part of Spring Security Filter Chain](https://bwgjoseph.com/why-requestheaderauthenticationfilter-is-not-registered-as-part-of-spring-security-filter-chain)
 
 ### 📫 How to reach me:
 
