@@ -4,11 +4,11 @@ I'm Joseph Gan, a software engineer from Singapore <img src="https://freesvg.org
 
 ### 📰 Recent Blog Posts
 
+- [Spring Security's SecurityContext get unexpectedly cleared in a MockMvc Test](https://bwgjoseph.com/spring-securitys-securitycontext-get-unexpectedly-cleared-in-a-mockmvc-test)
 - [Setting up MongoDB with replicas for local development](https://bwgjoseph.com/setting-up-mongodb-with-replicas-for-local-development)
 - [Lesson learned while using Taskfile to invoke PowerShell command](https://bwgjoseph.com/lesson-learned-while-using-taskfile-to-invoke-powershell-command)
 - [Reclaim disk space used by Docker Desktop (WSL2)](https://bwgjoseph.com/reclaim-disk-space-used-by-docker-desktop-wsl2)
 - [Maven 101 - Multi-Module](https://bwgjoseph.com/maven-101-multi-module)
-- [Maven 101 - Basics](https://bwgjoseph.com/maven-101-basics)
 
 ### 📫 How to reach me:
 
